@@ -1,0 +1,3 @@
+training f-score:micro_fscore:0.9129155918966589macro_fscore:0.3420903267655882
+validation f-score:micro_fscore:0.8911327906543217macro_fscore:0.27686287298222734
+test f-score:micro_fscore:0.8948326343277677macro_fscore:0.28042001235330455
