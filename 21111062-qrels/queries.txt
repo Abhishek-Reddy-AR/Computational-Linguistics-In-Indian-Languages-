@@ -1,0 +1,21 @@
+Q01	ROT13 cipher
+Q02	ChurchaTuring thesis
+Q03	DALL-E
+Q04	Sensitivity and specificity
+Q05	Ménières disease
+Q06	Kinesiology
+Q07	Bill & Melinda Gates Foundation
+Q08	Antiviral medication used against herpes
+Q09	List of dystopian literature
+Q10	UDYOGA PARVA
+Q11	Storms River Pass
+Q12	Rhineland-Palatinate
+Q13	Japanese minimalist architect Tadao Ando
+Q14	Qualitative research methods in human geography
+Q15	1942 expedition
+Q16	FUTON bias
+Q17	Yadagirigutta Temple Timings
+Q18	Vodarevu Beach is located
+Q19	Kent County Cricket Club
+Q20	iit kanpur
+
